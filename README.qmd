@@ -1,5 +1,5 @@
 ---
-title: "NFL Statistics Dashboard"
+title: "NFL Team Performance Dashboard (2023 Season)"
 format: gfm
 execute: 
   warning: false
@@ -7,8 +7,6 @@ execute:
   errors: false
 jupyter: python3
 ---
-
-# NFL Team Performance Dashboard (2023 Season)
 
 ## Overview
 

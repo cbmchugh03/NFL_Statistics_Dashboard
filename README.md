@@ -1,7 +1,5 @@
-# NFL Statistics Dashboard
-
-
 # NFL Team Performance Dashboard (2023 Season)
+
 
 ## Overview
 
